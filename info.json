@@ -1,0 +1,134 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://5ksc.icu/",
+            "path": "index.html",
+            "saved": true,
+            "size": 3699,
+            "children": [
+                {
+                    "url": "http://q2.qlogo.cn/headimg_dl?dst_uin=320605357&spec=100",
+                    "saved": false
+                },
+                {
+                    "url": "https://pv.sohu.com/cityjson?ie=utf-8",
+                    "saved": false
+                },
+                {
+                    "url": "https://5ksc.icu/js/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 86927,
+                    "children": []
+                },
+                {
+                    "url": "https://5ksc.icu/js/su.js",
+                    "path": "js/su.js",
+                    "saved": true,
+                    "size": 4616,
+                    "children": []
+                },
+                {
+                    "url": "https://5ksc.icu/snowy.js",
+                    "path": "js/snowy.js",
+                    "saved": true,
+                    "size": 75596,
+                    "children": []
+                },
+                {
+                    "url": "https://5ksc.icu/css/main.css",
+                    "path": "css/main.css",
+                    "saved": true,
+                    "size": 17571,
+                    "children": [
+                        {
+                            "url": "https://5ksc.icu/css/font-awesome.min.css",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://5ksc.icu/css/css.css",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://cdn.mom1.cn/ha/?mom=302",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://5ksc.icu/images/H1983cf2b4b5b45f3a95f9cd50be5f9ebV.png",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://5ksc.icu/images/H88647b1696564b9d880fdf741d728ec3a.png",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://5ksc.icu/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "5ksc-icu-w7shpgnm",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://5ksc.icu/css/main.css",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://5ksc.icu/",
+            "statusCode": 200,
+            "headers": {
+                "date": "Fri, 17 Sep 2021 01:48:44 GMT",
+                "server": "Apache",
+                "upgrade": "h2",
+                "connection": "Upgrade, close",
+                "last-modified": "Mon, 06 Sep 2021 13:49:12 GMT",
+                "etag": "\"fcf-5cb53e9fead2a-gzip\"",
+                "accept-ranges": "bytes",
+                "vary": "Accept-Encoding",
+                "content-length": "1750",
+                "content-type": "text/html"
+            }
+        },
+        "time": {
+            "start": "2021-09-17T01:48:37.633Z",
+            "end": "2021-09-17T01:48:50.969Z"
+        },
+        "remark": [],
+        "ip": "47.242.153.67",
+        "url": "https://5ksc.icu/",
+        "main": "index.html",
+        "domain": "5ksc.icu",
+        "origin": "https://5ksc.icu",
+        "totalSize": "188 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://5ksc.icu/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
